@@ -1,6 +1,5 @@
 import praw
 import pandas as pd
-from datetime import date
 
 
 def get_reddit_posts(file_name):
